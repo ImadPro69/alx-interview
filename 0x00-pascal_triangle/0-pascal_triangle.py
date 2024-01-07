@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-0. Pascal's Triangle
+Task N1: 0. Pascal's Triangle
 """
 
 
